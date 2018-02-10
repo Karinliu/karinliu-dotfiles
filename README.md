@@ -31,4 +31,4 @@ alias .bashrc="nano .bashrc"        open hiddenfile .bashrc
 11. Welcome message it added! :)
 
 # Result
-<img width="584" alt="screenshot 2018-02-09 18 17 20" src="https://user-images.githubusercontent.com/32538678/36062777-45a08b00-0e73-11e8-9d0b-f9599d0f4351.png">
+<img width="586" alt="screenshot 2018-02-10 17 03 33" src="https://user-images.githubusercontent.com/32538678/36064173-3aecfee6-0e87-11e8-924f-96352904c375.png">
