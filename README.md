@@ -10,6 +10,12 @@ alias .bashrc="nano .bashrc"        open hiddenfile .bashrc
 6. Save it and restart terminal.
 7. Prompt is changed! :)
 
+8. Adding colors into command
+9. Open .bashrc
+10. Add: PS1="🌱 \$(tput sgr0 )\$(basename \$(pwd))$ \$(tput setaf 217)";
+    tput sgr0 = reset colors
+    tput setaf = set color 217
+
 # Add a welcome message
 1. Again edit the .bashrc file.
 2. Under the command "PS1.." type the following command: curl wttr\.in/seoul?0 #
@@ -23,3 +29,6 @@ alias .bashrc="nano .bashrc"        open hiddenfile .bashrc
 9. Hit button "y" (save).
 10. Hit enter and restart your terminal.
 11. Welcome message it added! :)
+
+# Result
+<img width="586" alt="screenshot 2018-02-10 17 03 33" src="https://user-images.githubusercontent.com/32538678/36064003-d4892fb4-0e84-11e8-8f68-d2494254bfcc.png">
