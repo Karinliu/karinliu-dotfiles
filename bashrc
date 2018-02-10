@@ -1,6 +1,5 @@
 #NAME
-PS1="🌱 \$(basename \$(pwd))$ ";
-
+PS1="🌱 \$(tput sgr0 )\$(basename \$(pwd))$ \$(tput setaf 217)";
 
 #WELCOME MESSAGE
 curl wttr\.in/seoul?0 #"
