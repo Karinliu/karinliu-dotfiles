@@ -1,2 +1,25 @@
-# karinliu-dotfiles
-Profile
+# Make alias
+alias .bashrc="nano .bashrc"        open hiddenfile .bashrc
+
+# change prompt
+1. Go to home directory: cd ~
+2. Type: ls -a
+3. Find file .bashrc
+4. Edit .bashrc: open -a TextEdit .bashrc
+5. Modify prompt with the following command: PS1="🌱 \$(basename \$(pwd))$ ";
+6. Save it and restart terminal.
+7. Prompt is changed! :)
+
+# Add a welcome message
+1. Again edit the .bashrc file.
+2. Under the command "PS1.." type the following command: curl wttr\.in/seoul?0 #
+3. Save it and restart terminal to see the weather.
+
+4. Add above weather message a welcome message
+5. Go to cd /etc (go to hidden files)
+6. Type command: sudo pico motd and type in your password.
+7. Type welcome message. (welcome Karin!🍃)
+8. Hit button “control” and button “x” to exit the motd.
+9. Hit button "y" (save).
+10. Hit enter and restart your terminal.
+11. Welcome message it added! :)
