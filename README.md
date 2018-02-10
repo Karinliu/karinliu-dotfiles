@@ -50,4 +50,3 @@ Also I like to add a welcome message in the top of my terminal (WARNING, for thi
 See here under the result of my terminal! :)
 
 <img width="586" alt="screenshot 2018-02-10 17 03 33" src="https://user-images.githubusercontent.com/32538678/36064003-d4892fb4-0e84-11e8-8f68-d2494254bfcc.png">
-
