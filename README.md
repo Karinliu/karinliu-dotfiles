@@ -23,3 +23,8 @@ alias .bashrc="nano .bashrc"        open hiddenfile .bashrc
 9. Hit button "y" (save).
 10. Hit enter and restart your terminal.
 11. Welcome message it added! :)
+
+
+# Result
+<img width="584" alt="screenshot 2018-02-09 18 17 20" src="https://user-images.githubusercontent.com/32538678/36062777-45a08b00-0e73-11e8-9d0b-f9599d0f4351.png">
+
